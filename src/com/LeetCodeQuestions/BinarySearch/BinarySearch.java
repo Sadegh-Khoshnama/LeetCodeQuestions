@@ -1,4 +1,4 @@
-package com.LeetCodeQuestions;
+package com.LeetCodeQuestions.BinarySearch;
 
 public class BinarySearch {
     public static void main(String[] args) {
