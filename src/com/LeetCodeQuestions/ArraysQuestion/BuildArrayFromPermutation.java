@@ -13,7 +13,6 @@ public class BuildArrayFromPermutation {
 
 
 
-
     //LeetCode 1920. Build Array from Permutation
     public static int[] buildArray(int[] arr) {
         int [] ans=new int[arr.length];
