@@ -1,4 +1,4 @@
-package com.LeetCodeQuestions.ArraysQuestion;
+package com.LeetCodeQuestions.ArraysQuestion.ConcatenationOfArray;
 
 import java.util.Arrays;
 

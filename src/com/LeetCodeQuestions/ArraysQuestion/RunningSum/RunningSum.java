@@ -1,4 +1,4 @@
-package com.LeetCodeQuestions.ArraysQuestion;
+package com.LeetCodeQuestions.ArraysQuestion.RunningSum;
 
 import java.util.Arrays;
 
